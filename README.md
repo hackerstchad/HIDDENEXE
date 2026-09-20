@@ -1,25 +1,17 @@
 # HIdden.exe Builder
 
-**Convertisseur avancé Python → EXE** avec interface graphique Tkinter stylisée *hacker* (vert, rouge, jaune/noir).
+<img width="1248" height="832" alt="OIG3" src="https://github.com/user-attachments/assets/a6c94be9-fe63-4545-b7b1-13ec5f07011a" />
+
+
+**Convertisseur avancé Python → EXE** avec interface graphique Tkinter stylisée *hacker*
 Créé par **hackers_tchad**.
 
 ---
 
-## 🚀 Fonctionnalités
-
-- Interface moderne en une seule fenêtre (Tkinter + ttk personnalisé).
-- Conversion de n'importe quel script `.py` en exécutable Windows `.exe` via **PyInstaller**.
-- Choix du mode : `--onefile` ou `--onedir`, `--windowed` ou `--console`.
-- Icône personnalisée (`.ico`), image de profil/logo intégrée dans la fenêtre.
-- Informations de version, nom de société, description, copyright.
-- Barres de progression animées, statistiques, logs en temps réel.
-- Vérification automatique de PyInstaller et proposition d'installation.
-- Génération d'un fichier `.spec` modifiable.
-- Onglets : **Build**, **Avancé**, **Profil**, **Logs**, **Aide**.
 
 ---
 
-## 📦 Installation
+##  Installation
 
 ```bash
 cd hidden_exe_builder
@@ -30,7 +22,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Lancement
+##  Lancement
 
 ```bash
 python hidden_builder.py
@@ -38,7 +30,7 @@ python hidden_builder.py
 
 ---
 
-## 🛠️ Utilisation
+##  Utilisation
 
 1. Sélectionnez votre script Python source.
 2. Choisissez le dossier de sortie.
@@ -48,7 +40,7 @@ python hidden_builder.py
 
 ---
 
-## 🎨 Thème
+##  Thème
 
 - Fond noir (`#050505`)
 - Accent vert (`#00ff41`)
@@ -58,7 +50,7 @@ python hidden_builder.py
 
 ---
 
-## 📚 Ressources utiles
+##  Ressources utiles
 
 - PyInstaller : https://pyinstaller.org/
 - Tkinter docs : https://docs.python.org/3/library/tkinter.html
@@ -66,9 +58,6 @@ python hidden_builder.py
 
 ---
 
-## ⚠️ Avertissement
-
-Cet outil est fourni à des fins éducatives et légitimes. Ne l'utilisez pas pour empaqueter du code malveillant.
 
 ---
 
